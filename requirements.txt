@@ -1,0 +1,3 @@
+# requirements.txt
+
+# This project uses only built-in Python libraries.
